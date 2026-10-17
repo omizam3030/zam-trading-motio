@@ -1,0 +1,135 @@
+{
+  "_readme": "Semua file relatif terhadap /public. File yang tidak ada dilewati (tidak diputar) dan dilaporkan oleh `npm run validate`.",
+  "music": {
+    "file": "music/bed.mp3",
+    "volume": 0.55,
+    "duckTo": 0.2,
+    "fadeInFrames": 30,
+    "fadeOutFrames": 14
+  },
+  "voice": [
+    {
+      "id": "vo1",
+      "file": "vo/scene1.mp3",
+      "from": 10,
+      "windowEnd": 193
+    },
+    {
+      "id": "vo2",
+      "file": "vo/scene2.mp3",
+      "from": 212,
+      "windowEnd": 397
+    },
+    {
+      "id": "vo3",
+      "file": "vo/scene3.mp3",
+      "from": 416,
+      "windowEnd": 628
+    },
+    {
+      "id": "vo4",
+      "file": "vo/scene4.mp3",
+      "from": 647,
+      "windowEnd": 864
+    },
+    {
+      "id": "vo5",
+      "file": "vo/scene5.mp3",
+      "from": 883,
+      "windowEnd": 1073
+    }
+  ],
+  "sfx": [
+    {
+      "file": "sfx/drone-sub.mp3",
+      "from": 0,
+      "dur": 202,
+      "volume": 0.5,
+      "note": "sub-bass swell S1"
+    },
+    {
+      "file": "sfx/whoosh-reverse.mp3",
+      "from": 32,
+      "dur": 54,
+      "volume": 0.5,
+      "note": "reverse whoosh sebelum PELUANG"
+    },
+    {
+      "file": "sfx/vine-boom.mp3",
+      "from": 134,
+      "dur": 70,
+      "volume": 0.25,
+      "note": "impact RISIKO (file unggahan, volume rendah)"
+    },
+    {
+      "file": "sfx/whoosh.mp3",
+      "from": 186,
+      "dur": 40,
+      "volume": 0.5,
+      "note": "speed ramp S1 -> S2"
+    },
+    {
+      "file": "sfx/tick.mp3",
+      "from": 231,
+      "dur": 14,
+      "volume": 0.35,
+      "note": "tick candle"
+    },
+    {
+      "file": "sfx/tick.mp3",
+      "from": 254,
+      "dur": 14,
+      "volume": 0.35,
+      "note": "tick candle"
+    },
+    {
+      "file": "sfx/tick.mp3",
+      "from": 277,
+      "dur": 14,
+      "volume": 0.35,
+      "note": "tick candle"
+    },
+    {
+      "file": "sfx/impact-soft.mp3",
+      "from": 222,
+      "dur": 51,
+      "volume": 0.5,
+      "note": "impact SAHAM"
+    },
+    {
+      "file": "sfx/shimmer.mp3",
+      "from": 418,
+      "dur": 108,
+      "volume": 0.4,
+      "note": "gold shimmer"
+    },
+    {
+      "file": "sfx/whoosh-reverse.mp3",
+      "from": 603,
+      "dur": 62,
+      "volume": 0.5,
+      "note": "reverse whoosh -> forex"
+    },
+    {
+      "file": "sfx/whoosh-wide.mp3",
+      "from": 731,
+      "dur": 63,
+      "volume": 0.45,
+      "note": "pan forex"
+    },
+    {
+      "file": "sfx/riser.mp3",
+      "from": 810,
+      "dur": 71,
+      "volume": 0.45,
+      "note": "riser -> penutup"
+    },
+    {
+      "file": "sfx/vine-boom.mp3",
+      "from": 930,
+      "dur": 107,
+      "volume": 0.2,
+      "note": "impact lembut pernyataan akhir (file unggahan)"
+    }
+  ]
+}

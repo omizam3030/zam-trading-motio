@@ -1,0 +1,39 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationInFrames": 1087,
+  "scenes": [
+    {
+      "id": "s1",
+      "from": 0,
+      "to": 202,
+      "base": 150
+    },
+    {
+      "id": "s2",
+      "from": 202,
+      "to": 406,
+      "base": 180
+    },
+    {
+      "id": "s3",
+      "from": 406,
+      "to": 637,
+      "base": 150
+    },
+    {
+      "id": "s4",
+      "from": 637,
+      "to": 873,
+      "base": 150
+    },
+    {
+      "id": "s5",
+      "from": 873,
+      "to": 1087,
+      "base": 120
+    }
+  ],
+  "_note": "Durasi mengikuti voice-over asli (aturan brief: VO dulu, visual menyesuaikan). 'base' = panjang animasi asli; scene dilar/diperlambat otomatis ke 'to-from'."
+}
